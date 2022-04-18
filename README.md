@@ -1,5 +1,10 @@
 ## OpenCV: Open Source Computer Vision Library
 
+### this is the change @Summy
++ adding feature 1 
++ adding feature 2
+
+
 ### Resources
 
 * Homepage: <https://opencv.org>
